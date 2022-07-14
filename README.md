@@ -4,6 +4,8 @@
 	Projeto integrador desenvolvido como atividade de conclusão do bootcamp <a href="https://brazil.generation.org/"> Generation Brasil</a> 2022.1.
 </p>
 
+Link do projeto: https://mangrove-project.netlify.app/
+
 ### O que é o Projeto MANGROVE?
 
 O projeto MANGROVE se trata de um e-commerce e tem como objetivo atuar como um impacto positivo de acordo com a<a href="https://www.ipea.gov.br/ods/ods10.html"> ODS #10</a>, objetivo dedicado a redução a desigualdade dentro dos países e entre eles. Sendo assim, a MANGROVE terá como atividade principal o comércio de pescados e souvenirs diversos sob a intenção de reverter seus valores e direcioná-los à rede de pescadores artesanais e suas famílias. 
