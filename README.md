@@ -4,7 +4,7 @@
 	Projeto integrador desenvolvido como atividade de conclusão do bootcamp <a href="https://brazil.generation.org/"> Generation Brasil</a> 2022.1.
 </p>
 
-Link do projeto: https://mangrove-project.netlify.app/
+Link: https://mangrove-project.netlify.app/
 
 ### O que é o Projeto MANGROVE?
 
